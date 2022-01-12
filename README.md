@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marian Farah (@marian-cana), Head of Data Science at [Cana Technology](https://www.cana.com/)
-- 👀 I’m interested in data science, machine learning, and molecular mixology
+- 👀 I’m interested in data science, machine learning, and cheminformatics.. and of course, Rupaul's Drag Race!
 - 📫 How to reach me: marian@cana.com
 - 👩‍💻 Pronouns: she/her/hers
 
